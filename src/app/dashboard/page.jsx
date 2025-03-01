@@ -162,7 +162,8 @@ function Dashboard() {
                       <div className="w-80 rounded" >
                         <Link href="/video/rHux0gMZ3Eg">
                           <Image 
-                            src="https://i.ytimg.com/vi/rHux0gMZ3Eg/maxresdefault.jpg" 
+                            src="https://i.ytimg.com/vi/rHux0gMZ3Eg/maxresdefault.jpg"
+                            alt="video thumbnail"
                             className="rounded-lg object-contain"
                             width={500}
                             height={500}  
@@ -173,7 +174,8 @@ function Dashboard() {
                       <div className="w-80 rounded" >
                         <Link href="/video/erEgovG9WBs">
                           <Image 
-                            src="https://i.ytimg.com/vi/erEgovG9WBs/maxresdefault.jpg" 
+                            src="https://i.ytimg.com/vi/erEgovG9WBs/maxresdefault.jpg"
+                            alt="video thumbnail"
                             className="rounded-lg object-contain"
                             width={500}
                             height={500}
@@ -184,7 +186,8 @@ function Dashboard() {
                       <div className="w-80 rounded" >
                         <Link href="/video/30LWjhZzg50">
                           <Image 
-                            src="https://i.ytimg.com/vi/30LWjhZzg50/maxresdefault.jpg" 
+                            src="https://i.ytimg.com/vi/30LWjhZzg50/maxresdefault.jpg"
+                            alt="video thumbnail"
                             className="rounded-lg object-contain" 
                             width={500}
                             height={500}
@@ -195,7 +198,8 @@ function Dashboard() {
                       <div className="w-80 rounded" >
                         <Link href="/video/BBpAmxU_NQo">
                           <Image 
-                            src="https://i.ytimg.com/vi/BBpAmxU_NQo/maxresdefault.jpg" 
+                            src="https://i.ytimg.com/vi/BBpAmxU_NQo/maxresdefault.jpg"
+                            alt="video thumbnail"
                             className="rounded-lg object-contain"
                             width={500}
                             height={500}

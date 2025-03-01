@@ -36,7 +36,7 @@ export default function Features03() {
                 Personalized Learning Experience
                 </h3>
                 <p className="text-lg text-zinc-500">
-                Aacharya tailors content based on each learner's interactions and progress. Adaptive paths ensure material matches individual needs and pace. This results in a more engaging and effective learning experience.
+                Aacharya tailors content based on each learner&apos;s interactions and progress. Adaptive paths ensure material matches individual needs and pace. This results in a more engaging and effective learning experience.
                 </p>
               </div>
               {/* Tabs buttons */}

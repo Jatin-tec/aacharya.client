@@ -20,7 +20,7 @@ export default function Home() {
               </h1>
               <p className="text-lg text-zinc-500">
                 Talk to an expert about your requirements, needs, and timeline.
-                Complete the form and we'll make sure to reach out.
+                Complete the form and we&apos;ll make sure to reach out.
               </p>
             </div>
 

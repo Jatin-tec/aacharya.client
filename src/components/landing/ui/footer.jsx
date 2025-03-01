@@ -20,7 +20,7 @@ export default function Footer() {
               </Link>
             </div>
             <div className="grow text-sm text-zinc-500">
-              &copy; Cruip.com. All rights reserved.
+              &copy; aacharya.in. All rights reserved.
             </div>
             {/* Social links */}
             <ul className="flex space-x-4 mt-4 mb-1">
